@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bishalrg
 - 👀 I’m interested in visiting palce 
 - 🌱 I’m currently learning php and java scripts
-- 💞️ I’m looking to collaborate on w
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me bishalregmi13@gmail.com
 
 <!---
